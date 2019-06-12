@@ -21,5 +21,5 @@ Amazon Simple Queue Service with Spring Boot
   }
   
 ## For Receiving message 
-### I have created thread (`NotificationListener.class`) where it will start on every 2 minutes. You can change as per your need.
+#### I have created thread (`NotificationListener.class`) where it will start on every 2 minutes. You can change as per your need.
 
