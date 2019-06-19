@@ -1,5 +1,5 @@
 # SQS-Springboot-example
-Amazon Simple Queue Service with Spring Boot
+Amazon Simple Queue Service with Spring Boot.
 
 ## Prerequisites
 - Create SQS queue (I am using standard queue)
