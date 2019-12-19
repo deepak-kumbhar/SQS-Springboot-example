@@ -1,4 +1,4 @@
-# SQS-Springboot-example
+# SQS-Springboot-example - Development
 Amazon Simple Queue Service with Spring Boot
 
 ## Prerequisites
